@@ -349,6 +349,7 @@ ol {
 .content__card-link.content__card-link_current .content__video-card {
   background-color: #545050;
 }
+
 .more-button:active {
   background-color: #545050;
   text-decoration: none;
@@ -378,3 +379,21 @@ ol {
   background-color: #fff;
   margin: 1.5px 1.5px;
 }
+
+.search-form__label-text {
+  cursor: pointer;
+}
+
+.search-form__label:hover { 
+  text-decoration: underline; 
+} 
+
+.search-form__textfield:hover { 
+  text-decoration: underline;  
+} 
+
+.search-form__textfield:hover {
+  border: 1px solid white;
+}
+
+
