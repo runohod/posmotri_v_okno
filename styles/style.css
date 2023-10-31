@@ -49,9 +49,7 @@ ol {
 }
 
 .result {
-  width: 711px;
-  max-height: 386px;
-  margin-top: 25px;
+  padding-top: 78px;
 }
 
 .result__video {
