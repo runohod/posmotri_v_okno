@@ -107,6 +107,7 @@ ol {
   font-weight: 700; 
   line-height: 94%; 
   text-transform: uppercase; 
+  line-height: 70.5px;
 }
 
 .search-form__textfield {
@@ -159,14 +160,6 @@ ol {
   font-weight: 400;
   line-height: normal;
   margin-bottom: 3px;
-}
-
-.title {
-  font-size: 75px;
-  line-height: 70.5px;
-  text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
-
 }
 
 .content__accent {
