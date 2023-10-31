@@ -100,7 +100,13 @@ ol {
 }
 
 .title {
-  display: flex;
+  color: #FFF; 
+  font-family: Oswald; 
+  font-size: 75px; 
+  font-style: normal; 
+  font-weight: 700; 
+  line-height: 94%; 
+  text-transform: uppercase; 
 }
 
 .search-form__textfield {
